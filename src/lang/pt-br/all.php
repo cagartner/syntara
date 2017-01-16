@@ -26,7 +26,7 @@ return array(
              '404-title'=>' 404. Não encontrado.',
              '403' => 'Sentimos muito, mas você não tem permissão para acessar esta página.',
              '403-title'=>'403. Acesso negado.',
-             '500' => 'Nós alguns problemas. Desculpe. :-(.'
+             '500' => 'Nós alguns problemas. Desculpe. :-(.',
              '500-title'=>'500. Erro do Servidor Interno.',
          )
     ),
